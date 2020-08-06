@@ -10,6 +10,7 @@ Volume of mybox2 is24.0
 Weight of mybox2 is0.076
 *****************
 DemoSuper Output:
+**************************
 Volume of mybox1 is 3000.0
 Weight of mybox1 is 34.3
 
@@ -24,3 +25,4 @@ Weight of myclone is 34.3
 
 Volume of mycube is 27.0
 Weight of mycube is 2.0
+************************
